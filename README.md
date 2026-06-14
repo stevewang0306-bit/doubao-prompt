@@ -1,4 +1,4 @@
-# 豆包(Doubao)系统提示词
+# 豆包(Doubao)系统提示词(2026.5)
 
 字节跳动豆包(ByteDance Doubao)模型的系统提示词(System Prompt)记录,仅供学习与研究参考。
 
@@ -22,7 +22,7 @@
 - 如相关权利方认为本仓库内容存在不妥,可通过 issue 联系本人,本人将及时处理或删除。
 
 
-# Doubao system prompt word
+# Doubao system prompt word(2026.5)
 
 The record of system prompts for the ByteDance Doubao model is provided for learning and research reference only.
 
